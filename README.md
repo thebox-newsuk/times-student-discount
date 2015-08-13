@@ -1,5 +1,6 @@
-# times-student-discount
-Assets for Times Student Discount creative
+# The Times
+## Student Discount
+#####Assets for Times Student Discount creative
 
 #Colours
 - red #e32e25
