@@ -1,6 +1,6 @@
 # The Times
 ## Student Discount
-#####Assets for Times Student Discount creative
+#####[Assets for Times Student Discount creative](https://theandpartnership.box.com/shared/static/ywr281n6hsc0mpd2czf28nbytqmygthd.jpg)
 
 ##### Colours
 - red #e32e25
@@ -15,3 +15,4 @@ Instantly win one of thousands of gifts when you become a member and enjoy opini
 
 ##### Call to action
 Sign up for only £20 at [thetimes.co.uk/studentmembership](thetimes.co.uk/studentmembership)
+
